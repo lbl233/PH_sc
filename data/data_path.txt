@@ -1,0 +1,6 @@
+eg.
+## mouse model QC and integration
+/home/zhouyt/R/PAH_sc/image/2.RData
+
+## code for mouse model QC and integration
+/home/zhouyt/R/PAH_sc/1.R
